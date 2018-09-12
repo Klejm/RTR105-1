@@ -1,6 +1,6 @@
 # RTR105
 <h1>Datormācība</h1>
-firefox - atvēr pārlukprogrammu firefox<br>
+<b>firefox<b>- atvēr pārlukprogrammu firefox<br>
 uname -r - parāda operētājsistēmas kodols<br>
 uname -a - izvada detalizētu informāciju par sistēmu<br>
 history - parāda komandas vēsture<br>
