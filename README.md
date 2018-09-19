@@ -42,4 +42,9 @@ __ ___  ___<br>
  mv *.txt Music/- pārvietot visus txt failus<br>
  mv *.txt ../ - pārvietot visus txt failus uz līmeņu augstak<br>
  mv fails1.txt fails31.txt - pārsaukt failu<br>
-rm *3*.txt - dzēst visus failus, kur ir 3.<br>
+ rm *3*.txt - dzēst visus failus, kur ir 3.<br>
+ echo $PATH - paradit ceļu. <br>
+ = - piešķiršanas operacija
+ PATH = $PATH:~ - papildinat ceļu
+ git clone https://github.com/nik0301/RTR105 - saglabat uz datora
+
